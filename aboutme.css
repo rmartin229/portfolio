@@ -1,20 +1,22 @@
 body {
-  background-color: #1FDEA7;
+  background-color: #02258e;
 }
 
 h1 {
-  color: #70776b;
+  color: #ffd000;
   text-align: center;
-font: italic 200% fantasy;
+  font-family: verdana
+  font-size: 50px;
 }
 
 p {
-  color: #70776b;
+  color: #ffd000;
   text-align: center;
-font: italic 200% fantasy;
+  font-family: verdana
+  font-size: 30px;
 }
 
 img{
   image-orientation: center;
+  border: 20px solid white;
 }
-
