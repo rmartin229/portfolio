@@ -1,1 +1,20 @@
+body {
+  background-color: #1FDEA7;
+}
+
+h1 {
+  color: #70776b;
+  text-align: center;
+font: italic 200% fantasy;
+}
+
+p {
+  color: #70776b;
+  text-align: center;
+font: italic 200% fantasy;
+}
+
+img{
+  image-orientation: center;
+}
 
